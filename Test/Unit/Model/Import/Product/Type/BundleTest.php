@@ -289,7 +289,6 @@ class BundleTest extends AbstractImportTestCase
                         'type' => 'bundle',
                         'value_id' => '6',
                         'title' => 'Bundle6',
-                        'name' => 'Bundle6',
                         'selections' => [
                             [
                                 'name' => 'Bundlen6',
